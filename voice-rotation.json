@@ -1,7 +1,19 @@
 {
-  "last": "male",
+  "last": "female",
   "history": [
-    {"slug": "reboucas", "voice": "male", "provider": "elevenlabs"},
-    {"slug": "mason", "voice": "male", "provider": "elevenlabs"}
+    {
+      "slug": "reboucas",
+      "voice": "male",
+      "provider": "elevenlabs"
+    },
+    {
+      "slug": "mason",
+      "voice": "male",
+      "provider": "elevenlabs"
+    },
+    {
+      "slug": "mcworter",
+      "voice": "female"
+    }
   ]
 }
