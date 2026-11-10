@@ -2,7 +2,7 @@
 
 Public video files for The Black Executive Journal social posts.
 
-- `videos/2026-11-reboucas/` — André Rebouças lead-in (Yesterday's Architects). Full article: https://www.blackexecutivebrief.com/andre-reboucas-the-engineer-who-wrote-the-concession-law-then-built-a-port-company-under-it/
+- `videos/2026-11-reboucas/` — André Rebouças: The Engineer Who Wrote Brazil's Concession Law (Yesterday's Architects). Full article: https://www.blackexecutivebrief.com/andre-reboucas-the-engineer-who-wrote-the-concession-law-then-built-a-port-company-under-it/
 - `videos/2026-11-mason/` — Biddy Mason: From Enslaved Midwife to Los Angeles Landowner (Yesterday's Architects). Full article: https://www.blackexecutivebrief.com/biddy-mason-from-1700-mile-trek-in/
 - `videos/2026-11-mcworter/` — Frank McWorter: He Bought His Wife First, Then Platted a Town (Yesterday's Architects). Full article: https://www.blackexecutivebrief.com/frank-mcworter-the-developer-who-bought-his-wife-first-and-platted-a-town-to-pay-for-the-rest/
 
