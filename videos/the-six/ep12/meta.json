@@ -15,5 +15,6 @@
     "#CapitalMarkets",
     "#EmergingMarkets"
   ],
-  "posted": false
+  "posted": true,
+  "postedAt": "2026-11-12T13:06:31.127Z"
 }
